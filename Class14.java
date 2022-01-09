@@ -21,7 +21,7 @@ class PrePaid extends Thread
 	   }
 	   if(temp>0) {
 		   sum=temp;
-		   System.out.println("³q¸Ü¶O"+n+"¤¸¡A¾lÃB¬°"+sum+"¤¸");
+		   System.out.println("é€šè©±è²»"+n+"å…ƒï¼Œé¤˜é¡ç‚º"+sum+"å…ƒ");
 	   }
    }
 }
